@@ -26,7 +26,7 @@ while(cap.isOpened()):
     # print("success", success)
 
     if cv2.waitKey(1) == 13:
-        # if cv2.waitKey(1) == ord('q'):
+        if cv2.waitKey(1) == ord('q'):
         break
 
 print(cnt)
