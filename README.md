@@ -6,11 +6,13 @@ Shubham Singh Chouhan
 
 # Installation
 Windows:
-  pip install face_recogition, 
+
+  pip install face_recogition
+	
   pip install opencv-python
   
 # Usage Example
-In theis test you can see there is first image before the face detect and the second is detect face in whole image.
+In this test example you can see here, first image before the face detect and the second is detect face in whole image.
 
 𝘽𝙚𝙛𝙤𝙧𝙚
 ![elon](https://user-images.githubusercontent.com/64628073/131212911-7a03d267-39c1-40c5-9d4b-6d17a540078b.jpg)
