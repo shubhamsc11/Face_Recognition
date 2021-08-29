@@ -6,7 +6,7 @@ In this project, I am bulid how to detect face recognition using python. I am do
 𝙎𝙝𝙪𝙗𝙝𝙖𝙢 𝙎𝙞𝙣𝙜𝙝 𝘾𝙝𝙤𝙪𝙝𝙖𝙣
 {Computer Science Engineer}
 
-For More Details :- <a href="https://www.linkedin.com/in/shubham-singh-chouhan-05a68319a/">![image](https://user-images.githubusercontent.com/64628073/131237677-bb3634fa-6641-4c69-9518-09529b1818d6.png)</a>
+For More Details :- <a href="https://www.linkedin.com/in/shubham-singh-chouhan-05a68319a/">LinkedIn</a>
 
 # Is recognition different from detection?
 
