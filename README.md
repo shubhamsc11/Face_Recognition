@@ -4,6 +4,9 @@ In this project, I am bulid how to detect face recognition using python. I am do
 # Presented by
 
 𝙎𝙝𝙪𝙗𝙝𝙖𝙢 𝙎𝙞𝙣𝙜𝙝 𝘾𝙝𝙤𝙪𝙝𝙖𝙣
+{Computer Science Engineer}
+
+For More Details :- <a href="https://www.linkedin.com/in/shubham-singh-chouhan-05a68319a/">LinkedIn</a>
 
 # Is recognition different from detection?
 
