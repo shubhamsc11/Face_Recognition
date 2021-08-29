@@ -86,5 +86,5 @@ In this test example you can see here, first image before the face detect and th
 
 
 
-                                                        !!! 🆃🅷🅰🅽🅺 🆈🅾🆄 !!!
+                                                     !!! 🆃🅷🅰🅽🅺 🆈🅾🆄 !!!
  
