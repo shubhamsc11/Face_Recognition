@@ -1,5 +1,6 @@
 # About
-In this project, I am bulid how to detect face recognition using python. I am doing this using the concepts of computer vision using the OpenCV library and FaceRecognition.
+
+In this project, I have built how to detect face with face recognition using python. I have done this project on the concept of computer vision, also I have used OpenCV library and Face Recognition.
 
 # Presented by
 
