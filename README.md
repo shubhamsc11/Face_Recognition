@@ -10,13 +10,13 @@ For More Details :- <a href="https://www.linkedin.com/in/shubham-singh-chouhan-0
 
 # Is recognition different from detection?
 
-Detection:– 
+𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧:– 
 The ability to detect if there is some 'thing' vs nothing. 
 
-Recognition:– 
+𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧:– 
 The ability to recognize what type of thing it is (person, animal, car, etc.) 
 
-Identification:– 
+𝐈𝐝𝐞𝐧𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧:– 
 The ability to identify a specific individual from other people.
 
 
@@ -33,13 +33,17 @@ The ability to identify a specific individual from other people.
 
 # Installation
 
-Windows:
+Ⓦⓘⓝⓓⓞⓦⓢ:
 
-  pip install face_recogition
-	
-  pip install opencv-python
+𝐅𝐚𝐜𝐞_𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧
+
+	pip install face_recogition
   
-  
+𝐎𝐩𝐞𝐧𝐂𝐕
+
+	pip install opencv-python
+
+
 # Libraries used
 
 1. cv2 : OpenCV is a huge open-source library for computer vision, machine learning, and image processing.
@@ -57,15 +61,19 @@ Windows:
 
 In this test example you can see here, first image before the face detect and the second is detect face in whole image.
 
-𝘽𝙚𝙛𝙤𝙧𝙚
+𝘽𝙚𝙛𝙤𝙧𝙚:-
+
 ![elon](https://user-images.githubusercontent.com/64628073/131212911-7a03d267-39c1-40c5-9d4b-6d17a540078b.jpg)
 
-𝘼𝙛𝙩𝙚𝙧
+𝘼𝙛𝙩𝙚𝙧:-
+
 ![download](https://user-images.githubusercontent.com/64628073/131212926-64fcfa41-a57a-4efb-84ae-b5530ab86620.png)
+
 
 # Work Structure
 
 ![basic structure of face recognition](https://user-images.githubusercontent.com/64628073/131213116-23aa99a6-44d9-42a4-8bfe-6c4afac724d3.png)
+
 
 # Reference
 
@@ -75,3 +83,8 @@ In this test example you can see here, first image before the face detect and th
 
 > https://www.mygreatlearning.com/blog/real-time-face-detection/
 
+
+
+
+                                                        !!! 🆃🅷🅰🅽🅺 🆈🅾🆄 !!!
+ 
