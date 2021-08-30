@@ -4,8 +4,7 @@ In this project, I have built how to detect face with face recognition using pyt
 
 # Presented by
 
-𝙎𝙝𝙪𝙗𝙝𝙖𝙢 𝙎𝙞𝙣𝙜𝙝 𝘾𝙝𝙤𝙪𝙝𝙖𝙣
-{Computer Science Engineer}
+𝐌𝐑. 𝐒𝐡𝐮𝐛𝐡𝐚𝐦 𝐒𝐢𝐧𝐠𝐡 𝐂𝐡𝐨𝐮𝐡𝐚𝐧 (Computer Science Engineer)
 
 For More Details :- <a href="https://www.linkedin.com/in/shubham-singh-chouhan-05a68319a/">LinkedIn</a>
 
